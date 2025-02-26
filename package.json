@@ -1,0 +1,31 @@
+{
+    "name": "vuetify-2.7-vue-config-cli-template",
+    "version": "1.0.0",
+    "description": "A minimal Vuetify 2.7 template using Vue CLI with vue.config.js for customization.",
+    "author": "Wissem Boughamoura",
+    "license": "MIT",
+    "homepage": "https://wissemb11.github.io/vuetify-2.7-vue-config-cli-template/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wissemb11/vuetify-2.7-vue-config-cli-template.git"
+    },
+    "bugs": {
+        "url": "https://github.com/wissemb11/vuetify-2.7-vue-config-cli-template/issues"
+    },
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+        "vue": "^2.6.14",
+        "vue-router": "^3.5.3",
+        "vuetify": "^2.7.0",
+        "vuex": "^3.6.2"
+    },
+    "devDependencies": {
+                "gh-pages": "^6.3.0",
+        "@vue/cli-service": "~4.5.0",
+        "vue-template-compiler": "^2.6.14"
+    }
+}
