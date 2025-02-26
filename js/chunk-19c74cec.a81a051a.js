@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-19c74cec"],{bb51:function(t,o,e){"use strict";e.r(o);var c=function(){var t=this,o=t._self._c;return o("div",{staticClass:"home"},[o("h1",[t._v("Welcome to the Home Page")]),o("p",[t._v("This is the home page of your Vuetify application.")]),o("v-btn",{attrs:{color:"primary",to:"/about",tag:"router-link"}},[t._v(" Go to About Page ")])],1)},a=[],n={name:"Home"},i=n,u=(e("f81a"),e("2877")),s=Object(u["a"])(i,c,a,!1,null,"13b5f62c",null);o["default"]=s.exports},cf20:function(t,o,e){},f81a:function(t,o,e){"use strict";e("cf20")}}]);
-//# sourceMappingURL=chunk-19c74cec.db98669d.js.map
+//# sourceMappingURL=chunk-19c74cec.a81a051a.js.map
